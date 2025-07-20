@@ -4,7 +4,7 @@ ta cansando de digitar npm init,npm install midir my-project toda hora? esse scr
 # instalação
 
 ``` bash
-curl url-file
+curl https://github.com/voidh7/nodeCreate.sh/blob/main/NodeCreate.sh &&
 chmod +x nodeCreate.sh
 ```
 
